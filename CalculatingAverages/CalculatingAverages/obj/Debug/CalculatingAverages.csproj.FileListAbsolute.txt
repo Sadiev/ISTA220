@@ -1,0 +1,6 @@
+C:\Users\dilsh.DESKTOP-RKIOIBG\ISTA220\CalculatingAverages\CalculatingAverages\bin\Debug\CalculatingAverages.exe.config
+C:\Users\dilsh.DESKTOP-RKIOIBG\ISTA220\CalculatingAverages\CalculatingAverages\bin\Debug\CalculatingAverages.exe
+C:\Users\dilsh.DESKTOP-RKIOIBG\ISTA220\CalculatingAverages\CalculatingAverages\bin\Debug\CalculatingAverages.pdb
+C:\Users\dilsh.DESKTOP-RKIOIBG\ISTA220\CalculatingAverages\CalculatingAverages\obj\Debug\CalculatingAverages.csprojResolveAssemblyReference.cache
+C:\Users\dilsh.DESKTOP-RKIOIBG\ISTA220\CalculatingAverages\CalculatingAverages\obj\Debug\CalculatingAverages.exe
+C:\Users\dilsh.DESKTOP-RKIOIBG\ISTA220\CalculatingAverages\CalculatingAverages\obj\Debug\CalculatingAverages.pdb

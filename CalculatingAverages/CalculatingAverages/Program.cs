@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//  EX 2A - C# - Calculating Averages
+//  Student: Shod
+//  07/15/2019
+
 namespace CalculatingAverages
 {
     class Program
@@ -26,7 +30,7 @@ namespace CalculatingAverages
                         AverageScores();
                         break;
                     case "4"://Average a non-specific number of scores
-                        Console.WriteLine("Case 4");
+                        Average();
                         break;
                     case "5"://Exit
                         exit = true;
@@ -82,15 +86,15 @@ namespace CalculatingAverages
             //Accept ten test scores, average them, and report a letter grade for the average based on the usual scale
             double avg = SumOfNumbers(len) / len;
             if (avg < 60)
-                Console.WriteLine($"The average numerical grade is {avg} and the letter grade is F.");
+                Console.WriteLine($"The average numerical grade is {avg:0} and the letter grade is F.\n");
             else if (avg < 70)
-                Console.WriteLine($"The average numerical grade is {avg} and the letter grade is D.");
+                Console.WriteLine($"The average numerical grade is {avg:0} and the letter grade is D.\n");
             else if (avg < 80)
-                Console.WriteLine($"The average numerical grade is {avg} and the letter grade is C.");
+                Console.WriteLine($"The average numerical grade is {avg:0} and the letter grade is C.\n");
             else if (avg < 90)
-                Console.WriteLine($"The average numerical grade is {avg} and the letter grade is  B.");
+                Console.WriteLine($"The average numerical grade is {avg:0} and the letter grade is  B.\n");
             else
-                Console.WriteLine($"The average numerical grade is {avg} and the letter grade is  A.");
+                Console.WriteLine($"The average numerical grade is {avg:0} and the letter grade is  A.\n");
         }
 
         static void AverageScores()
@@ -104,7 +108,49 @@ namespace CalculatingAverages
 
         static void Average()
         {
-            List<byte> grades = new List<byte>();
+            //This method accept a number test scores (as calculated by the number of scores actually entered)
+            //between 0 and 100, average them, and report a letter grade for the average based on the usual scale
+            List<int> grades = new List<int>();
+            bool exit = false;
+            string strGrade;
+            int intGrade=0;
+
+            do
+            {
+                Console.Write("\nEnter a numerical grade between 0 and 100\nor 'r' to average and report a letter grade >>");
+                strGrade = Console.ReadLine();
+                if (strGrade == "r")
+                {
+                    exit = true;
+                }
+                else
+                {
+                    if (int.TryParse(strGrade, out intGrade) && (intGrade >= 0 && intGrade <= 100))
+                    {
+                        grades.Add(intGrade);
+                    }
+                    else
+                        Console.Write("Not a valid grade.");
+                }
+            } while (exit==false);
+            if (grades.Count<=0) 
+            {
+                Console.WriteLine("\nNot a grade added.");
+                return;
+            }
+            double avg = grades.Average();
+            if (avg < 60)
+                Console.WriteLine($"\nThe average numerical grade is {avg:0} and the letter grade is F.\n");
+            else if (avg < 70)
+                Console.WriteLine($"\nThe average numerical grade is {avg:0} and the letter grade is D.\n");
+            else if (avg < 80)
+                Console.WriteLine($"\nThe average numerical grade is {avg:0} and the letter grade is C.\n");
+            else if (avg < 90)
+                Console.WriteLine($"\nThe average numerical grade is {avg:0} and the letter grade is  B.\n");
+            else
+                Console.WriteLine($"\nThe average numerical grade is {avg:0} and the letter grade is  A.\n");
+
+
         }
     }
 }

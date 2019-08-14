@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMyTask xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MyTask>
+    <Status>0</Status>
+    <TaskName>task 1</TaskName>
+    <TaskDate>2019-07-29T09:23:39.8590176-04:00</TaskDate>
+  </MyTask>
+  <MyTask>
+    <Status>1</Status>
+    <TaskName>task2</TaskName>
+    <TaskDate>2019-07-29T09:23:52.1190932-04:00</TaskDate>
+  </MyTask>
+  <MyTask>
+    <Status>1</Status>
+    <TaskName>task4</TaskName>
+    <TaskDate>2019-07-29T09:24:03.6149767-04:00</TaskDate>
+  </MyTask>
+  <MyTask>
+    <Status>0</Status>
+    <TaskName>sdfsdfsd</TaskName>
+    <TaskDate>2019-07-29T09:24:09.5444735-04:00</TaskDate>
+  </MyTask>
+  <MyTask>
+    <Status>0</Status>
+    <TaskName>dfgdfg</TaskName>
+    <TaskDate>2019-07-29T09:24:13.5086065-04:00</TaskDate>
+  </MyTask>
+  <MyTask>
+    <Status>0</Status>
+    <TaskName>task4</TaskName>
+    <TaskDate>2019-07-29T09:24:31.9697212-04:00</TaskDate>
+  </MyTask>
+</ArrayOfMyTask>

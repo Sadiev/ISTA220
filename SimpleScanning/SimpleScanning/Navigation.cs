@@ -7,7 +7,7 @@ namespace SimpleScanning
     class Navigation
     {
         int page;//Current page
-        const int ItemsPerPage = 5;//Tasks per page
+        const int TaskPerPage = 5;//Tasks per page
         public void KeyCatch(List<MyTask> taskList)
         {
             XMLFile file = new XMLFile(); //needs it to save or open tasks in XML file
@@ -56,8 +56,8 @@ namespace SimpleScanning
                         SelectTask(index, taskList);
                         break;
                     case ConsoleKey.PageDown://next page
-                        cursor = ItemsPerPage;
-                        index = page + ItemsPerPage;
+                        cursor = TaskPerPage;
+                        index = page + TaskPerPage;
                         MoveToNext(ref index, ref cursor, taskList);
                         break;
                     default:
@@ -80,7 +80,7 @@ namespace SimpleScanning
             clearConsol();
             page = index;
 
-            foreach (var item in taskList.Skip(index).Take(ItemsPerPage))
+            foreach (var item in taskList.Skip(index).Take(TaskPerPage))
             {
                 Console.ResetColor();
                 Console.ForegroundColor = item.Status == 1 ? ConsoleColor.Red : ConsoleColor.Gray;
@@ -89,7 +89,7 @@ namespace SimpleScanning
             //Print menu with blue color
             Console.ResetColor();
             Console.ForegroundColor = ConsoleColor.Blue;
-            Console.SetCursorPosition(0, ItemsPerPage + 1);
+            Console.SetCursorPosition(0, TaskPerPage + 1);
             DisplayMenu();
         }
         void MoveToNext(ref int index, ref int cursor, List<MyTask> taskList)
@@ -101,7 +101,7 @@ namespace SimpleScanning
                 if (taskList[index - 1].Status == 1) Console.ForegroundColor = ConsoleColor.Red;
                 Console.Write(taskList[index - 1].TaskName.PadRight(120, ' '));
                 //if a last task on the page than print next page
-                if (Console.CursorTop == ItemsPerPage-1)
+                if (Console.CursorTop == TaskPerPage-1)
                 {
                     PrintTasks(index, taskList);
                     cursor = 0;

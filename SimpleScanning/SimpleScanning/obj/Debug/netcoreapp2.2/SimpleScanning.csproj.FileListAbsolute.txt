@@ -9,3 +9,14 @@ C:\Users\dilsh\Desktop\SimpleScanning_back\SimpleScanning\obj\Debug\netcoreapp2.
 C:\Users\dilsh\Desktop\SimpleScanning_back\SimpleScanning\obj\Debug\netcoreapp2.2\SimpleScanning.AssemblyInfo.cs
 C:\Users\dilsh\Desktop\SimpleScanning_back\SimpleScanning\obj\Debug\netcoreapp2.2\SimpleScanning.dll
 C:\Users\dilsh\Desktop\SimpleScanning_back\SimpleScanning\obj\Debug\netcoreapp2.2\SimpleScanning.pdb
+C:\Users\dilsh\ISTA220\SimpleScanning\SimpleScanning\bin\Debug\netcoreapp2.2\SimpleScanning.deps.json
+C:\Users\dilsh\ISTA220\SimpleScanning\SimpleScanning\bin\Debug\netcoreapp2.2\SimpleScanning.runtimeconfig.json
+C:\Users\dilsh\ISTA220\SimpleScanning\SimpleScanning\bin\Debug\netcoreapp2.2\SimpleScanning.runtimeconfig.dev.json
+C:\Users\dilsh\ISTA220\SimpleScanning\SimpleScanning\bin\Debug\netcoreapp2.2\SimpleScanning.dll
+C:\Users\dilsh\ISTA220\SimpleScanning\SimpleScanning\bin\Debug\netcoreapp2.2\SimpleScanning.pdb
+C:\Users\dilsh\ISTA220\SimpleScanning\SimpleScanning\obj\Debug\netcoreapp2.2\SimpleScanning.csprojAssemblyReference.cache
+C:\Users\dilsh\ISTA220\SimpleScanning\SimpleScanning\obj\Debug\netcoreapp2.2\SimpleScanning.csproj.CoreCompileInputs.cache
+C:\Users\dilsh\ISTA220\SimpleScanning\SimpleScanning\obj\Debug\netcoreapp2.2\SimpleScanning.AssemblyInfoInputs.cache
+C:\Users\dilsh\ISTA220\SimpleScanning\SimpleScanning\obj\Debug\netcoreapp2.2\SimpleScanning.AssemblyInfo.cs
+C:\Users\dilsh\ISTA220\SimpleScanning\SimpleScanning\obj\Debug\netcoreapp2.2\SimpleScanning.dll
+C:\Users\dilsh\ISTA220\SimpleScanning\SimpleScanning\obj\Debug\netcoreapp2.2\SimpleScanning.pdb

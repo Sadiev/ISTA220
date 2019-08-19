@@ -1,0 +1,11 @@
+C:\Users\dilsh\ISTA220\MilitaryUnit\MilitaryUnit\bin\Debug\netcoreapp2.2\MilitaryUnit.deps.json
+C:\Users\dilsh\ISTA220\MilitaryUnit\MilitaryUnit\bin\Debug\netcoreapp2.2\MilitaryUnit.runtimeconfig.json
+C:\Users\dilsh\ISTA220\MilitaryUnit\MilitaryUnit\bin\Debug\netcoreapp2.2\MilitaryUnit.runtimeconfig.dev.json
+C:\Users\dilsh\ISTA220\MilitaryUnit\MilitaryUnit\bin\Debug\netcoreapp2.2\MilitaryUnit.dll
+C:\Users\dilsh\ISTA220\MilitaryUnit\MilitaryUnit\bin\Debug\netcoreapp2.2\MilitaryUnit.pdb
+C:\Users\dilsh\ISTA220\MilitaryUnit\MilitaryUnit\obj\Debug\netcoreapp2.2\MilitaryUnit.csprojAssemblyReference.cache
+C:\Users\dilsh\ISTA220\MilitaryUnit\MilitaryUnit\obj\Debug\netcoreapp2.2\MilitaryUnit.csproj.CoreCompileInputs.cache
+C:\Users\dilsh\ISTA220\MilitaryUnit\MilitaryUnit\obj\Debug\netcoreapp2.2\MilitaryUnit.AssemblyInfoInputs.cache
+C:\Users\dilsh\ISTA220\MilitaryUnit\MilitaryUnit\obj\Debug\netcoreapp2.2\MilitaryUnit.AssemblyInfo.cs
+C:\Users\dilsh\ISTA220\MilitaryUnit\MilitaryUnit\obj\Debug\netcoreapp2.2\MilitaryUnit.dll
+C:\Users\dilsh\ISTA220\MilitaryUnit\MilitaryUnit\obj\Debug\netcoreapp2.2\MilitaryUnit.pdb

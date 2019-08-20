@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "LongRunningProcess/1.0.0": {
+        "dependencies": {
+          "LoggingFramework": "1.0.0",
+          "Service": "1.0.0"
+        },
+        "runtime": {
+          "LongRunningProcess.dll": {}
+        }
+      },
+      "LoggingFramework/1.0.0": {
+        "runtime": {
+          "LoggingFramework.dll": {}
+        }
+      },
+      "Service/1.0.0": {
+        "runtime": {
+          "Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LongRunningProcess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LoggingFramework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

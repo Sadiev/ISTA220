@@ -1,0 +1,9 @@
+C:\Users\dilsh\source\repos\DependecyInjection\LogginFramework\bin\Debug\netcoreapp2.2\LoggingFramework.deps.json
+C:\Users\dilsh\source\repos\DependecyInjection\LogginFramework\bin\Debug\netcoreapp2.2\LoggingFramework.dll
+C:\Users\dilsh\source\repos\DependecyInjection\LogginFramework\bin\Debug\netcoreapp2.2\LoggingFramework.pdb
+C:\Users\dilsh\source\repos\DependecyInjection\LogginFramework\obj\Debug\netcoreapp2.2\LoggingFramework.csprojAssemblyReference.cache
+C:\Users\dilsh\source\repos\DependecyInjection\LogginFramework\obj\Debug\netcoreapp2.2\LoggingFramework.csproj.CoreCompileInputs.cache
+C:\Users\dilsh\source\repos\DependecyInjection\LogginFramework\obj\Debug\netcoreapp2.2\LoggingFramework.AssemblyInfoInputs.cache
+C:\Users\dilsh\source\repos\DependecyInjection\LogginFramework\obj\Debug\netcoreapp2.2\LoggingFramework.AssemblyInfo.cs
+C:\Users\dilsh\source\repos\DependecyInjection\LogginFramework\obj\Debug\netcoreapp2.2\LoggingFramework.dll
+C:\Users\dilsh\source\repos\DependecyInjection\LogginFramework\obj\Debug\netcoreapp2.2\LoggingFramework.pdb

@@ -1,0 +1,17 @@
+C:\Users\dilsh\source\repos\DependecyInjection\LoggingFrameworkTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\dilsh\source\repos\DependecyInjection\LoggingFrameworkTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\dilsh\source\repos\DependecyInjection\LoggingFrameworkTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\dilsh\source\repos\DependecyInjection\LoggingFrameworkTest\bin\Debug\netcoreapp2.2\LoggingFrameworkTest.deps.json
+C:\Users\dilsh\source\repos\DependecyInjection\LoggingFrameworkTest\bin\Debug\netcoreapp2.2\LoggingFrameworkTest.runtimeconfig.json
+C:\Users\dilsh\source\repos\DependecyInjection\LoggingFrameworkTest\bin\Debug\netcoreapp2.2\LoggingFrameworkTest.runtimeconfig.dev.json
+C:\Users\dilsh\source\repos\DependecyInjection\LoggingFrameworkTest\bin\Debug\netcoreapp2.2\LoggingFrameworkTest.dll
+C:\Users\dilsh\source\repos\DependecyInjection\LoggingFrameworkTest\obj\Debug\netcoreapp2.2\LoggingFrameworkTest.csprojAssemblyReference.cache
+C:\Users\dilsh\source\repos\DependecyInjection\LoggingFrameworkTest\obj\Debug\netcoreapp2.2\LoggingFrameworkTest.csproj.CoreCompileInputs.cache
+C:\Users\dilsh\source\repos\DependecyInjection\LoggingFrameworkTest\obj\Debug\netcoreapp2.2\LoggingFrameworkTest.AssemblyInfoInputs.cache
+C:\Users\dilsh\source\repos\DependecyInjection\LoggingFrameworkTest\obj\Debug\netcoreapp2.2\LoggingFrameworkTest.AssemblyInfo.cs
+C:\Users\dilsh\source\repos\DependecyInjection\LoggingFrameworkTest\bin\Debug\netcoreapp2.2\LoggingFrameworkTest.pdb
+C:\Users\dilsh\source\repos\DependecyInjection\LoggingFrameworkTest\obj\Debug\netcoreapp2.2\LoggingFrameworkTest.dll
+C:\Users\dilsh\source\repos\DependecyInjection\LoggingFrameworkTest\obj\Debug\netcoreapp2.2\LoggingFrameworkTest.pdb
+C:\Users\dilsh\source\repos\DependecyInjection\LoggingFrameworkTest\bin\Debug\netcoreapp2.2\LoggingFramework.dll
+C:\Users\dilsh\source\repos\DependecyInjection\LoggingFrameworkTest\bin\Debug\netcoreapp2.2\LoggingFramework.pdb
+C:\Users\dilsh\source\repos\DependecyInjection\LoggingFrameworkTest\obj\Debug\netcoreapp2.2\LoggingFrameworkTest.csproj.CopyComplete

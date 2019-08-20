@@ -1,0 +1,8 @@
+C:\Users\dilsh\source\repos\DependecyInjection\Service\bin\Debug\netcoreapp2.2\Service.deps.json
+C:\Users\dilsh\source\repos\DependecyInjection\Service\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\dilsh\source\repos\DependecyInjection\Service\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\dilsh\source\repos\DependecyInjection\Service\obj\Debug\netcoreapp2.2\Service.csproj.CoreCompileInputs.cache
+C:\Users\dilsh\source\repos\DependecyInjection\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfoInputs.cache
+C:\Users\dilsh\source\repos\DependecyInjection\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfo.cs
+C:\Users\dilsh\source\repos\DependecyInjection\Service\obj\Debug\netcoreapp2.2\Service.dll
+C:\Users\dilsh\source\repos\DependecyInjection\Service\obj\Debug\netcoreapp2.2\Service.pdb

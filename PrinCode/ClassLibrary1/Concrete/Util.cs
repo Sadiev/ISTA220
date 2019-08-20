@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleApp2
+namespace CsAst
 {
     public static class Util
     {

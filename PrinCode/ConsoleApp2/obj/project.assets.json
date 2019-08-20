@@ -208,14 +208,14 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
-      "ClassLibrary1/1.0.0": {
+      "CsAst/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
         "compile": {
-          "bin/placeholder/ClassLibrary1.dll": {}
+          "bin/placeholder/CsAst.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ClassLibrary1.dll": {}
+          "bin/placeholder/CsAst.dll": {}
         }
       }
     }
@@ -689,15 +689,15 @@
         "netstandard.library.nuspec"
       ]
     },
-    "ClassLibrary1/1.0.0": {
+    "CsAst/1.0.0": {
       "type": "project",
-      "path": "../ClassLibrary1/ClassLibrary1.csproj",
-      "msbuildProject": "../ClassLibrary1/ClassLibrary1.csproj"
+      "path": "../ClassLibrary1/CsAst.csproj",
+      "msbuildProject": "../ClassLibrary1/CsAst.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
-      "ClassLibrary1 >= 1.0.0",
+      "CsAst >= 1.0.0",
       "Microsoft.NETCore.App >= 2.2.0"
     ]
   },
@@ -734,8 +734,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\dilsh\\ISTA220\\PrinCode\\ClassLibrary1\\ClassLibrary1.csproj": {
-              "projectPath": "C:\\Users\\dilsh\\ISTA220\\PrinCode\\ClassLibrary1\\ClassLibrary1.csproj"
+            "C:\\Users\\dilsh\\ISTA220\\PrinCode\\ClassLibrary1\\CsAst.csproj": {
+              "projectPath": "C:\\Users\\dilsh\\ISTA220\\PrinCode\\ClassLibrary1\\CsAst.csproj"
             }
           }
         }

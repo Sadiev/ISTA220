@@ -8,15 +8,15 @@
     ".NETCoreApp,Version=v2.2": {
       "ConsoleApp2/1.0.0": {
         "dependencies": {
-          "ClassLibrary1": "1.0.0"
+          "CsAst": "1.0.0"
         },
         "runtime": {
           "ConsoleApp2.dll": {}
         }
       },
-      "ClassLibrary1/1.0.0": {
+      "CsAst/1.0.0": {
         "runtime": {
-          "ClassLibrary1.dll": {}
+          "CsAst.dll": {}
         }
       }
     }
@@ -27,7 +27,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "ClassLibrary1/1.0.0": {
+    "CsAst/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

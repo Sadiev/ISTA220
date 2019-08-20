@@ -1,16 +1,17 @@
-﻿using System.Collections.Generic;
+﻿using CsAst.Abstract;
+using System.Collections.Generic;
 
-namespace ConsoleApp2
+namespace CsAst
 {
-    public class NameSpace : INamed, IDisplayable
+    public class NameSpace : CodeElement//, INamed, IDisplayable
     {
         //string Name;
 
         List<INamespaceable> elements=new List<INamespaceable>();
 
-        public NameSpace(string name)
+        public NameSpace(string name) : base (name)
         {
-            Name = name;
+            //Name = name;
         }
 
         public void AddNameSpaceElement(INamespaceable namespaceable)
@@ -20,7 +21,7 @@ namespace ConsoleApp2
 
         public string Name { get; set; }
 
-        public string Display()
+        public override string Display()
         {
             var output = $"namespace {Name}\n{{\n";
             foreach (var element in elements)

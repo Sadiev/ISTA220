@@ -4,12 +4,12 @@
     "C:\\Users\\dilsh\\ISTA220\\PrinCode\\ConsoleApp2\\ConsoleApp2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dilsh\\ISTA220\\PrinCode\\ClassLibrary1\\ClassLibrary1.csproj": {
+    "C:\\Users\\dilsh\\ISTA220\\PrinCode\\ClassLibrary1\\CsAst.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dilsh\\ISTA220\\PrinCode\\ClassLibrary1\\ClassLibrary1.csproj",
-        "projectName": "ClassLibrary1",
-        "projectPath": "C:\\Users\\dilsh\\ISTA220\\PrinCode\\ClassLibrary1\\ClassLibrary1.csproj",
+        "projectUniqueName": "C:\\Users\\dilsh\\ISTA220\\PrinCode\\ClassLibrary1\\CsAst.csproj",
+        "projectName": "CsAst",
+        "projectPath": "C:\\Users\\dilsh\\ISTA220\\PrinCode\\ClassLibrary1\\CsAst.csproj",
         "packagesPath": "C:\\Users\\dilsh\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\dilsh\\ISTA220\\PrinCode\\ClassLibrary1\\obj\\",
         "projectStyle": "PackageReference",
@@ -86,8 +86,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\dilsh\\ISTA220\\PrinCode\\ClassLibrary1\\ClassLibrary1.csproj": {
-                "projectPath": "C:\\Users\\dilsh\\ISTA220\\PrinCode\\ClassLibrary1\\ClassLibrary1.csproj"
+              "C:\\Users\\dilsh\\ISTA220\\PrinCode\\ClassLibrary1\\CsAst.csproj": {
+                "projectPath": "C:\\Users\\dilsh\\ISTA220\\PrinCode\\ClassLibrary1\\CsAst.csproj"
               }
             }
           }

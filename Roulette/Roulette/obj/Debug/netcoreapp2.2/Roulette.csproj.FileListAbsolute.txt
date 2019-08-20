@@ -1,0 +1,11 @@
+C:\Users\dilsh\ISTA220\Roulette\Roulette\bin\Debug\netcoreapp2.2\Roulette.deps.json
+C:\Users\dilsh\ISTA220\Roulette\Roulette\bin\Debug\netcoreapp2.2\Roulette.runtimeconfig.json
+C:\Users\dilsh\ISTA220\Roulette\Roulette\bin\Debug\netcoreapp2.2\Roulette.runtimeconfig.dev.json
+C:\Users\dilsh\ISTA220\Roulette\Roulette\bin\Debug\netcoreapp2.2\Roulette.dll
+C:\Users\dilsh\ISTA220\Roulette\Roulette\bin\Debug\netcoreapp2.2\Roulette.pdb
+C:\Users\dilsh\ISTA220\Roulette\Roulette\obj\Debug\netcoreapp2.2\Roulette.csprojAssemblyReference.cache
+C:\Users\dilsh\ISTA220\Roulette\Roulette\obj\Debug\netcoreapp2.2\Roulette.csproj.CoreCompileInputs.cache
+C:\Users\dilsh\ISTA220\Roulette\Roulette\obj\Debug\netcoreapp2.2\Roulette.AssemblyInfoInputs.cache
+C:\Users\dilsh\ISTA220\Roulette\Roulette\obj\Debug\netcoreapp2.2\Roulette.AssemblyInfo.cs
+C:\Users\dilsh\ISTA220\Roulette\Roulette\obj\Debug\netcoreapp2.2\Roulette.dll
+C:\Users\dilsh\ISTA220\Roulette\Roulette\obj\Debug\netcoreapp2.2\Roulette.pdb

@@ -1,17 +1,19 @@
-﻿namespace ConsoleApp2
+﻿using CsAst.Abstract;
+
+namespace CsAst
 {
-    public class Interface : INamespaceable
+    public class Interface : CodeElement, INamespaceable
     {
-        public Interface(string name, Visibility visibility=Visibility.Private)
+        public Interface(string name, Visibility visibility=Visibility.Private) :base (name)
         {
-            Name = name;
+            //Name = name;
             Visibility = visibility;
         }
 
-        public string Name { get; set ; }
+       // public string Name { get; set ; }
         public Visibility Visibility { get; set; }
 
-        public string Display()
+        public override string Display()
         {
             return $"{Util.DisplayVisibility(Visibility)}interface {Name} {{}}";
         }

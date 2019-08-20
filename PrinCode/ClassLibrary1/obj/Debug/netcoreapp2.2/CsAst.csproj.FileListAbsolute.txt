@@ -1,0 +1,9 @@
+C:\Users\dilsh\ISTA220\PrinCode\ClassLibrary1\bin\Debug\netcoreapp2.2\CsAst.deps.json
+C:\Users\dilsh\ISTA220\PrinCode\ClassLibrary1\bin\Debug\netcoreapp2.2\CsAst.dll
+C:\Users\dilsh\ISTA220\PrinCode\ClassLibrary1\bin\Debug\netcoreapp2.2\CsAst.pdb
+C:\Users\dilsh\ISTA220\PrinCode\ClassLibrary1\obj\Debug\netcoreapp2.2\CsAst.csprojAssemblyReference.cache
+C:\Users\dilsh\ISTA220\PrinCode\ClassLibrary1\obj\Debug\netcoreapp2.2\CsAst.csproj.CoreCompileInputs.cache
+C:\Users\dilsh\ISTA220\PrinCode\ClassLibrary1\obj\Debug\netcoreapp2.2\CsAst.AssemblyInfoInputs.cache
+C:\Users\dilsh\ISTA220\PrinCode\ClassLibrary1\obj\Debug\netcoreapp2.2\CsAst.AssemblyInfo.cs
+C:\Users\dilsh\ISTA220\PrinCode\ClassLibrary1\obj\Debug\netcoreapp2.2\CsAst.dll
+C:\Users\dilsh\ISTA220\PrinCode\ClassLibrary1\obj\Debug\netcoreapp2.2\CsAst.pdb

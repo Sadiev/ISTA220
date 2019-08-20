@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp2
+﻿namespace CsAst.Abstract
 {
     public interface IVisible
     {

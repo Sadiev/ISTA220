@@ -1,6 +1,7 @@
-﻿using System;
+﻿using CsAst.Abstract;
+using System;
 
-namespace ConsoleApp2
+namespace CsAst
 {
     class Program
     {

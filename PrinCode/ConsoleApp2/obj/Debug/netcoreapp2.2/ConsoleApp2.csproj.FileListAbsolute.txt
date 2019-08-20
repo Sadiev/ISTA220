@@ -17,8 +17,6 @@ C:\Users\dilsh\ISTA220\PrinCode\ConsoleApp2\bin\Debug\netcoreapp2.2\ConsoleApp2.
 C:\Users\dilsh\ISTA220\PrinCode\ConsoleApp2\bin\Debug\netcoreapp2.2\ConsoleApp2.runtimeconfig.dev.json
 C:\Users\dilsh\ISTA220\PrinCode\ConsoleApp2\bin\Debug\netcoreapp2.2\ConsoleApp2.dll
 C:\Users\dilsh\ISTA220\PrinCode\ConsoleApp2\bin\Debug\netcoreapp2.2\ConsoleApp2.pdb
-C:\Users\dilsh\ISTA220\PrinCode\ConsoleApp2\bin\Debug\netcoreapp2.2\ClassLibrary1.dll
-C:\Users\dilsh\ISTA220\PrinCode\ConsoleApp2\bin\Debug\netcoreapp2.2\ClassLibrary1.pdb
 C:\Users\dilsh\ISTA220\PrinCode\ConsoleApp2\obj\Debug\netcoreapp2.2\ConsoleApp2.csprojAssemblyReference.cache
 C:\Users\dilsh\ISTA220\PrinCode\ConsoleApp2\obj\Debug\netcoreapp2.2\ConsoleApp2.csproj.CoreCompileInputs.cache
 C:\Users\dilsh\ISTA220\PrinCode\ConsoleApp2\obj\Debug\netcoreapp2.2\ConsoleApp2.AssemblyInfoInputs.cache
@@ -26,3 +24,5 @@ C:\Users\dilsh\ISTA220\PrinCode\ConsoleApp2\obj\Debug\netcoreapp2.2\ConsoleApp2.
 C:\Users\dilsh\ISTA220\PrinCode\ConsoleApp2\obj\Debug\netcoreapp2.2\ConsoleApp2.csproj.CopyComplete
 C:\Users\dilsh\ISTA220\PrinCode\ConsoleApp2\obj\Debug\netcoreapp2.2\ConsoleApp2.dll
 C:\Users\dilsh\ISTA220\PrinCode\ConsoleApp2\obj\Debug\netcoreapp2.2\ConsoleApp2.pdb
+C:\Users\dilsh\ISTA220\PrinCode\ConsoleApp2\bin\Debug\netcoreapp2.2\CsAst.dll
+C:\Users\dilsh\ISTA220\PrinCode\ConsoleApp2\bin\Debug\netcoreapp2.2\CsAst.pdb

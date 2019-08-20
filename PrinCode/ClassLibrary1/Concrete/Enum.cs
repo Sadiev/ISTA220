@@ -1,17 +1,19 @@
-﻿namespace ConsoleApp2
+﻿using CsAst.Abstract;
+
+namespace CsAst
 {
-    public class Enum : INamespaceable
+    public class Enum : CodeElement, INamespaceable
     {
-        public Enum(string name, Visibility visibility=Visibility.Private)
+        public Enum(string name, Visibility visibility=Visibility.Private) : base (name)
         {
-            Name = name;
+            //Name = name;
             Visibility = visibility;
         }
 
-        public string Name { get; set; }
+        //public string Name { get; set; }
         public Visibility Visibility { get; set; }
 
-        public string Display()
+        public override string Display()
         {
             return $"{Util.DisplayVisibility(Visibility)}enum {Name} {{}};";
         }

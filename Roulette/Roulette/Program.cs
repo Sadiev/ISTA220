@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace Roulette
 {
@@ -17,16 +18,11 @@ namespace Roulette
             
             wheel.PrintBets();
             Menu();
-            Console.SetCursorPosition(0, 15);
-            Console.ResetColor();
-            Console.ForegroundColor = ConsoleColor.Blue;
-            Console.Write("Enter 'S' to spin the wheel or enter a bet > ");
-            Console.ResetColor();
-            string betStr = Console.ReadLine();
+            
            // wheel.WinNumber = wheel.Spin();
 
         }
-        static void Menu()
+        public static void Menu()
         {
             Console.SetCursorPosition(90, 1);
             Console.ResetColor();
@@ -34,6 +30,28 @@ namespace Roulette
             Console.Write($"Money ${Global.Money}");
             Console.SetCursorPosition(90, 3);
             Console.Write($"Your bets: ");
+            foreach (var bet in Global.Bets.Select(x => new { x.BetType, x.BetAmount }).Distinct())
+            {
+                Console.SetCursorPosition(90, Console.CursorTop+1);
+                Console.Write($"Your on {bet.BetType} is {bet.BetAmount}");
+            }
+            Console.SetCursorPosition(0, 15);
+            Console.ResetColor();
+            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.Write("Enter 'S' to spin the wheel or enter a bet > ");
+            Console.ResetColor();
+
+            string betStr = Console.ReadLine();
+            if (betStr == "S")
+            {
+                new Wheel().Spin();
+            }
+            else
+            {
+                new Bet().Betting(betStr, 50);
+            }
+            
+
         }
 
     }
@@ -54,9 +72,20 @@ namespace Roulette
     }
     class Wheel
     {
-        public int Spin()
+        public void Spin()
         {
-            return new Random().Next(0, 37);
+            int winNumber= new Random().Next(0, 37);
+            decimal winTotal = 0;
+            foreach (var bet in Global.Bets)
+            {
+                if (bet.BetNumber == winNumber)
+                {
+                    winTotal +=((bet.Percent*bet.BetAmount)/100)+bet.BetAmount;
+                }
+            }
+            Global.Money += winTotal;
+            Global.Bets.Clear();
+            Program.Menu();
         }
 
         public void PrintBets()
@@ -101,7 +130,7 @@ namespace Roulette
 
 
             Console.WriteLine(new string('*', 73));
-            Console.WriteLine("*  1 to 18 - D   |   19 to 36 - F   |   1 to 18 - L   |   19 to 36 - H  *");
+            Console.WriteLine("*           1 to 18 - L             |             19 to 36 - H          *");
 
             Console.WriteLine(new string('*', 73));
             Console.WriteLine("*  red   |    black   |   odd   |    even    |    split    |    corner  *");
@@ -130,68 +159,112 @@ namespace Roulette
         //public Columns columns { get; set; }
         public int BetNumber { get; set; }
         public int Percent { get; set; }
+        public decimal BetAmount { get; set; }
+        public string BetType { get; set; }
 
-        public void Betting(string bet, decimal amount)
+        public void Betting(string bet, decimal betAmount)
         {
             switch (bet)
             {
                 case "R1":
-                    AddBets(new int[] { 3,6,9,12,15,18,21,24,27,30,33,36 },30);
+                    AddBets(3, 36, 3, 40, betAmount, bet);
                     break;
                 case "R2":
-                    AddBets(new int[] { 2,5,8,11,14,17,20,23,26,29,32,35 }, 30);
+                    AddBets(2, 35, 3, 40, betAmount, bet);
                     break;
                 case "R3":
-                    AddBets(new int[] { 1,4,7,10,13,16,19,22,25,28,31,34 }, 30);
+                    AddBets(1, 34, 3, 40, betAmount, bet);
                     break;
                 case "C1":
-                    AddBets(new int[] { 1, 2, 3 }, 50);
+                    AddBets(1, 3, 1, 60, betAmount, bet);
                     break;
                 case "C2":
-                    AddBets(new int[] { 4, 5, 6 }, 50);
+                    AddBets(4, 6, 1, 60, betAmount, bet);
                     break;
                 case "C3":
-                    AddBets(new int[] { 7, 8, 9 }, 50);
+                    AddBets(7, 9, 1, 60, betAmount, bet);
                     break;
                 case "C4":
-                    AddBets(new int[] { 10, 11, 12 }, 50);
+                    AddBets(10, 12, 1, 60, betAmount, bet);
                     break;
                 case "C5":
-                    AddBets(new int[] { 13,14,15 }, 50);
+                    AddBets(13, 15, 1, 60, betAmount, bet);
                     break;
                 case "C6":
-                    AddBets(new int[] { 16, 17, 18 }, 50);
+                    AddBets(16, 18, 1, 60, betAmount, bet);
                     break;
                 case "C7":
-                    AddBets(new int[] {19, 20, 21 }, 50);
+                    AddBets(19, 21, 1, 60, betAmount, bet);
                     break;
                 case "C8":
-                    AddBets(new int[] { 22, 23, 24 }, 50);
+                    AddBets(22, 24, 1, 60, betAmount, bet);
                     break;
                 case "C9":
-                    AddBets(new int[] { 25, 26, 27 }, 50);
+                    AddBets(25, 27, 1, 60, betAmount, bet);
                     break;
                 case "C10":
-                    AddBets(new int[] { 28, 29, 30 }, 50);
+                    AddBets(28, 30, 1, 60, betAmount, bet);
                     break;
                 case "C11":
-                    AddBets(new int[] {31, 32, 33 }, 50);
+                    AddBets(31, 33, 1, 60, betAmount, bet);
                     break;
                 case "C12":
-                    AddBets(new int[] { 34, 35, 36 }, 50);
+                    AddBets(34, 36, 1, 60, betAmount, bet);
                     break;
-                   
+                case "C13":
+                    AddBets(1, 6, 1, 50, betAmount, bet);
+                    break;
+                case "C14":
+                    AddBets(7, 12, 1, 50, betAmount, bet);
+                    break;
+                case "C15":
+                    AddBets(13, 18, 1, 50, betAmount, bet);
+                    break;
+                case "C16":
+                    AddBets(19, 24, 1, 50, betAmount, bet);
+                    break;
+                case "C17":
+                    AddBets( 25, 30, 1, 50, betAmount, bet);
+                    break;
+                case "C18":
+                    AddBets(31, 36, 1, 50, betAmount, bet);
+                    break;
+                case "A":
+                    AddBets(1,12,1,40,betAmount,bet);
+                    break;
+                case "B":
+                    AddBets(13, 24, 1, 40, betAmount, bet);
+                    break;
+                case "C":
+                    AddBets(25, 36, 1, 40, betAmount, bet);
+                    break;
+                case "L":
+                    AddBets(1, 18, 1, 30, betAmount, bet);
+                    break;
+                case "H":
+                    AddBets(19, 36, 1, 30, betAmount, bet);
+                    break;
                 default:
                     break;
             }
         }
-        void AddBets(int[] bets, int percent)
+        void AddBets(int begin, int end, int step, int percent, decimal betAmount, string bet)
         {
-            foreach (var bet in bets)
+            Bet temp;
+            for (int i = begin; i < end; i+=step)
             {
-                Global.Bets.Add(new Bet() { BetNumber = bet, Percent = percent });
+                temp = Global.Bets.Find(x => x.BetType == bet && x.BetNumber == i);
+                if (temp==null)
+                {
+                    Global.Bets.Add(new Bet() { BetNumber = i, Percent = percent, BetAmount = betAmount, BetType = bet });
+                }
+                else
+                {
+                    temp.BetAmount += betAmount;
+                }
             }
-            
+            Global.Money -= betAmount;
+            Program.Menu();
         }
 
 

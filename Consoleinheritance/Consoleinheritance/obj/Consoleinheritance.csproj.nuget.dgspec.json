@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dilsh\\source\\repos\\Consoleinheritance\\Consoleinheritance\\Consoleinheritance.csproj": {}
+    "C:\\Users\\dilsh\\ISTA220\\Consoleinheritance\\Consoleinheritance\\Consoleinheritance.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dilsh\\source\\repos\\Consoleinheritance\\Consoleinheritance\\Consoleinheritance.csproj": {
+    "C:\\Users\\dilsh\\ISTA220\\Consoleinheritance\\Consoleinheritance\\Consoleinheritance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dilsh\\source\\repos\\Consoleinheritance\\Consoleinheritance\\Consoleinheritance.csproj",
+        "projectUniqueName": "C:\\Users\\dilsh\\ISTA220\\Consoleinheritance\\Consoleinheritance\\Consoleinheritance.csproj",
         "projectName": "Consoleinheritance",
-        "projectPath": "C:\\Users\\dilsh\\source\\repos\\Consoleinheritance\\Consoleinheritance\\Consoleinheritance.csproj",
+        "projectPath": "C:\\Users\\dilsh\\ISTA220\\Consoleinheritance\\Consoleinheritance\\Consoleinheritance.csproj",
         "packagesPath": "C:\\Users\\dilsh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dilsh\\source\\repos\\Consoleinheritance\\Consoleinheritance\\obj\\",
+        "outputPath": "C:\\Users\\dilsh\\ISTA220\\Consoleinheritance\\Consoleinheritance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

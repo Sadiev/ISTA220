@@ -1,0 +1,22 @@
+C:\Users\dilsh\Desktop\New folder\ConsoleApp.SQLite\bin\Debug\netcoreapp2.2\ConsoleApp.SQLite.deps.json
+C:\Users\dilsh\Desktop\New folder\ConsoleApp.SQLite\bin\Debug\netcoreapp2.2\ConsoleApp.SQLite.runtimeconfig.json
+C:\Users\dilsh\Desktop\New folder\ConsoleApp.SQLite\bin\Debug\netcoreapp2.2\ConsoleApp.SQLite.runtimeconfig.dev.json
+C:\Users\dilsh\Desktop\New folder\ConsoleApp.SQLite\bin\Debug\netcoreapp2.2\ConsoleApp.SQLite.dll
+C:\Users\dilsh\Desktop\New folder\ConsoleApp.SQLite\bin\Debug\netcoreapp2.2\ConsoleApp.SQLite.pdb
+C:\Users\dilsh\Desktop\New folder\ConsoleApp.SQLite\obj\Debug\netcoreapp2.2\ConsoleApp.SQLite.csprojAssemblyReference.cache
+C:\Users\dilsh\Desktop\New folder\ConsoleApp.SQLite\obj\Debug\netcoreapp2.2\ConsoleApp.SQLite.csproj.CoreCompileInputs.cache
+C:\Users\dilsh\Desktop\New folder\ConsoleApp.SQLite\obj\Debug\netcoreapp2.2\ConsoleApp.SQLite.AssemblyInfoInputs.cache
+C:\Users\dilsh\Desktop\New folder\ConsoleApp.SQLite\obj\Debug\netcoreapp2.2\ConsoleApp.SQLite.AssemblyInfo.cs
+C:\Users\dilsh\Desktop\New folder\ConsoleApp.SQLite\obj\Debug\netcoreapp2.2\ConsoleApp.SQLite.dll
+C:\Users\dilsh\Desktop\New folder\ConsoleApp.SQLite\obj\Debug\netcoreapp2.2\ConsoleApp.SQLite.pdb
+C:\Users\dilsh\Desktop\LAB\ConsoleApp.SQLite\bin\Debug\netcoreapp2.2\ConsoleApp.SQLite.deps.json
+C:\Users\dilsh\Desktop\LAB\ConsoleApp.SQLite\bin\Debug\netcoreapp2.2\ConsoleApp.SQLite.runtimeconfig.json
+C:\Users\dilsh\Desktop\LAB\ConsoleApp.SQLite\bin\Debug\netcoreapp2.2\ConsoleApp.SQLite.runtimeconfig.dev.json
+C:\Users\dilsh\Desktop\LAB\ConsoleApp.SQLite\bin\Debug\netcoreapp2.2\ConsoleApp.SQLite.dll
+C:\Users\dilsh\Desktop\LAB\ConsoleApp.SQLite\bin\Debug\netcoreapp2.2\ConsoleApp.SQLite.pdb
+C:\Users\dilsh\Desktop\LAB\ConsoleApp.SQLite\obj\Debug\netcoreapp2.2\ConsoleApp.SQLite.csprojAssemblyReference.cache
+C:\Users\dilsh\Desktop\LAB\ConsoleApp.SQLite\obj\Debug\netcoreapp2.2\ConsoleApp.SQLite.csproj.CoreCompileInputs.cache
+C:\Users\dilsh\Desktop\LAB\ConsoleApp.SQLite\obj\Debug\netcoreapp2.2\ConsoleApp.SQLite.AssemblyInfoInputs.cache
+C:\Users\dilsh\Desktop\LAB\ConsoleApp.SQLite\obj\Debug\netcoreapp2.2\ConsoleApp.SQLite.AssemblyInfo.cs
+C:\Users\dilsh\Desktop\LAB\ConsoleApp.SQLite\obj\Debug\netcoreapp2.2\ConsoleApp.SQLite.dll
+C:\Users\dilsh\Desktop\LAB\ConsoleApp.SQLite\obj\Debug\netcoreapp2.2\ConsoleApp.SQLite.pdb

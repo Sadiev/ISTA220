@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\LogginFramework\\LoggingFramework.csproj": {}
+    "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\LogginFramework\\LoggingFramework.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\LogginFramework\\LoggingFramework.csproj": {
+    "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\LogginFramework\\LoggingFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\LogginFramework\\LoggingFramework.csproj",
+        "projectUniqueName": "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\LogginFramework\\LoggingFramework.csproj",
         "projectName": "LoggingFramework",
-        "projectPath": "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\LogginFramework\\LoggingFramework.csproj",
+        "projectPath": "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\LogginFramework\\LoggingFramework.csproj",
         "packagesPath": "C:\\Users\\dilsh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\LogginFramework\\obj\\",
+        "outputPath": "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\LogginFramework\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

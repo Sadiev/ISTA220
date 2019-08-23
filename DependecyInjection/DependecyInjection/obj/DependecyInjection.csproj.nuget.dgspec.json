@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\DependecyInjection\\DependecyInjection.csproj": {}
+    "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\DependecyInjection\\DependecyInjection.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\DependecyInjection\\DependecyInjection.csproj": {
+    "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\DependecyInjection\\DependecyInjection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\DependecyInjection\\DependecyInjection.csproj",
+        "projectUniqueName": "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\DependecyInjection\\DependecyInjection.csproj",
         "projectName": "DependecyInjection",
-        "projectPath": "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\DependecyInjection\\DependecyInjection.csproj",
+        "projectPath": "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\DependecyInjection\\DependecyInjection.csproj",
         "packagesPath": "C:\\Users\\dilsh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\DependecyInjection\\obj\\",
+        "outputPath": "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\DependecyInjection\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -32,14 +32,14 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\LogginFramework\\LoggingFramework.csproj": {
-                "projectPath": "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\LogginFramework\\LoggingFramework.csproj"
+              "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\LogginFramework\\LoggingFramework.csproj": {
+                "projectPath": "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\LogginFramework\\LoggingFramework.csproj"
               },
-              "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\LongRunningProcess\\LongRunningProcess.csproj": {
-                "projectPath": "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\LongRunningProcess\\LongRunningProcess.csproj"
+              "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\LongRunningProcess\\LongRunningProcess.csproj": {
+                "projectPath": "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\LongRunningProcess\\LongRunningProcess.csproj"
               },
-              "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\Service\\Service.csproj": {
-                "projectPath": "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\Service\\Service.csproj"
+              "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\Service\\Service.csproj": {
+                "projectPath": "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\Service\\Service.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\LogginFramework\\LoggingFramework.csproj": {
+    "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\LogginFramework\\LoggingFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\LogginFramework\\LoggingFramework.csproj",
+        "projectUniqueName": "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\LogginFramework\\LoggingFramework.csproj",
         "projectName": "LoggingFramework",
-        "projectPath": "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\LogginFramework\\LoggingFramework.csproj",
+        "projectPath": "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\LogginFramework\\LoggingFramework.csproj",
         "packagesPath": "C:\\Users\\dilsh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\LogginFramework\\obj\\",
+        "outputPath": "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\LogginFramework\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -122,14 +122,14 @@
         }
       }
     },
-    "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\LongRunningProcess\\LongRunningProcess.csproj": {
+    "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\LongRunningProcess\\LongRunningProcess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\LongRunningProcess\\LongRunningProcess.csproj",
+        "projectUniqueName": "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\LongRunningProcess\\LongRunningProcess.csproj",
         "projectName": "LongRunningProcess",
-        "projectPath": "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\LongRunningProcess\\LongRunningProcess.csproj",
+        "projectPath": "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\LongRunningProcess\\LongRunningProcess.csproj",
         "packagesPath": "C:\\Users\\dilsh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\LongRunningProcess\\obj\\",
+        "outputPath": "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\LongRunningProcess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -150,11 +150,11 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\LogginFramework\\LoggingFramework.csproj": {
-                "projectPath": "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\LogginFramework\\LoggingFramework.csproj"
+              "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\LogginFramework\\LoggingFramework.csproj": {
+                "projectPath": "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\LogginFramework\\LoggingFramework.csproj"
               },
-              "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\Service\\Service.csproj": {
-                "projectPath": "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\Service\\Service.csproj"
+              "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\Service\\Service.csproj": {
+                "projectPath": "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\Service\\Service.csproj"
               }
             }
           }
@@ -183,14 +183,14 @@
         }
       }
     },
-    "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\Service\\Service.csproj": {
+    "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\Service\\Service.csproj",
+        "projectUniqueName": "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\Service\\Service.csproj",
+        "projectPath": "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\Service\\Service.csproj",
         "packagesPath": "C:\\Users\\dilsh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\Service\\obj\\",
+        "outputPath": "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

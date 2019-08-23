@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\Service\\Service.csproj": {}
+    "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\Service\\Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\Service\\Service.csproj": {
+    "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\Service\\Service.csproj",
+        "projectUniqueName": "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\Service\\Service.csproj",
+        "projectPath": "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\Service\\Service.csproj",
         "packagesPath": "C:\\Users\\dilsh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\Service\\obj\\",
+        "outputPath": "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

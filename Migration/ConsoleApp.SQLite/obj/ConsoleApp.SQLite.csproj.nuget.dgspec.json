@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dilsh\\Desktop\\LAB\\ConsoleApp.SQLite\\ConsoleApp.SQLite.csproj": {}
+    "C:\\Users\\dilsh\\ISTA220\\Migration\\ConsoleApp.SQLite\\ConsoleApp.SQLite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dilsh\\Desktop\\LAB\\ConsoleApp.SQLite\\ConsoleApp.SQLite.csproj": {
+    "C:\\Users\\dilsh\\ISTA220\\Migration\\ConsoleApp.SQLite\\ConsoleApp.SQLite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dilsh\\Desktop\\LAB\\ConsoleApp.SQLite\\ConsoleApp.SQLite.csproj",
+        "projectUniqueName": "C:\\Users\\dilsh\\ISTA220\\Migration\\ConsoleApp.SQLite\\ConsoleApp.SQLite.csproj",
         "projectName": "ConsoleApp.SQLite",
-        "projectPath": "C:\\Users\\dilsh\\Desktop\\LAB\\ConsoleApp.SQLite\\ConsoleApp.SQLite.csproj",
+        "projectPath": "C:\\Users\\dilsh\\ISTA220\\Migration\\ConsoleApp.SQLite\\ConsoleApp.SQLite.csproj",
         "packagesPath": "C:\\Users\\dilsh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dilsh\\Desktop\\LAB\\ConsoleApp.SQLite\\obj\\",
+        "outputPath": "C:\\Users\\dilsh\\ISTA220\\Migration\\ConsoleApp.SQLite\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

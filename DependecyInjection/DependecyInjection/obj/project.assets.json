@@ -745,11 +745,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\DependecyInjection\\DependecyInjection.csproj",
+      "projectUniqueName": "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\DependecyInjection\\DependecyInjection.csproj",
       "projectName": "DependecyInjection",
-      "projectPath": "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\DependecyInjection\\DependecyInjection.csproj",
+      "projectPath": "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\DependecyInjection\\DependecyInjection.csproj",
       "packagesPath": "C:\\Users\\dilsh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\DependecyInjection\\obj\\",
+      "outputPath": "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\DependecyInjection\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -770,14 +770,14 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\LogginFramework\\LoggingFramework.csproj": {
-              "projectPath": "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\LogginFramework\\LoggingFramework.csproj"
+            "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\LogginFramework\\LoggingFramework.csproj": {
+              "projectPath": "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\LogginFramework\\LoggingFramework.csproj"
             },
-            "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\LongRunningProcess\\LongRunningProcess.csproj": {
-              "projectPath": "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\LongRunningProcess\\LongRunningProcess.csproj"
+            "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\LongRunningProcess\\LongRunningProcess.csproj": {
+              "projectPath": "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\LongRunningProcess\\LongRunningProcess.csproj"
             },
-            "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\Service\\Service.csproj": {
-              "projectPath": "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\Service\\Service.csproj"
+            "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\Service\\Service.csproj": {
+              "projectPath": "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\Service\\Service.csproj"
             }
           }
         }

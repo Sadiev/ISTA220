@@ -5908,11 +5908,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\LoggingFrameworkTest\\LoggingFrameworkTest.csproj",
+      "projectUniqueName": "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\LoggingFrameworkTest\\LoggingFrameworkTest.csproj",
       "projectName": "LoggingFrameworkTest",
-      "projectPath": "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\LoggingFrameworkTest\\LoggingFrameworkTest.csproj",
+      "projectPath": "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\LoggingFrameworkTest\\LoggingFrameworkTest.csproj",
       "packagesPath": "C:\\Users\\dilsh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\LoggingFrameworkTest\\obj\\",
+      "outputPath": "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\LoggingFrameworkTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -5933,8 +5933,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\LogginFramework\\LoggingFramework.csproj": {
-              "projectPath": "C:\\Users\\dilsh\\source\\repos\\DependecyInjection\\LogginFramework\\LoggingFramework.csproj"
+            "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\LogginFramework\\LoggingFramework.csproj": {
+              "projectPath": "C:\\Users\\dilsh\\ISTA220\\DependecyInjection\\LogginFramework\\LoggingFramework.csproj"
             }
           }
         }

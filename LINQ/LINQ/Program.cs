@@ -67,7 +67,7 @@ namespace LINQ
             //tetration, and is frequently expressed in Knuth's up-arrow notation (Links to an external site.) using double up-arrows.
 
             
-            var Knuth = (Enumerable.Repeat(2, 4).Aggregate(func3));
+            var Knuth = (Enumerable.Repeat(2, 4).Aggregate(2, func3));
             Console.WriteLine(Knuth);
         }
     }

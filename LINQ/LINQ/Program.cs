@@ -68,7 +68,36 @@ namespace LINQ
 
             
             var Knuth = (Enumerable.Repeat(2, 4).Aggregate(2, func3));
+
             Console.WriteLine(Knuth);
+
+            Console.WriteLine("----------------------------------");
+
+            foreach (var item in Enumerable.Repeat(2, 4))
+            {
+                Console.WriteLine(item);
+            }
+
+            
+            var newList = new List<int>(Enumerable.Range(-5,10));
+            string s = string.Empty;
+            s = "4,5,6,";
+            s = s.Trim(',');
+            Console.WriteLine(s);
+            //Print List
+            newList.ForEach(Console.WriteLine);
+            Console.WriteLine(string.Join(", ",strList));
+            newList.ForEach(x=>Console.Write(x+";"));
+
+            Console.WriteLine($"\nPrint with aggregate: {strList.Aggregate((a,b)=>a.ToUpper()+", "+b.ToLower())}");
+            //Max, Min, Count
+            Console.WriteLine($"\nMax: {newList.Max()}; Min: {newList.Min()}; Count: {newList.Count(x=>x>=0)}");
+            Console.WriteLine($"Sum of negative numbers: {newList.Where(x=>x>0).Sum()}");
+            Console.WriteLine();
+            Console.Clear();
+            newList.Where(x => x % 2 == 0).ToList().ForEach(Console.WriteLine);
+            newList.Select((x,i)=>new {Number=x,Index=i }).Where(x => x.Number % 2 == 0).ToList().ForEach(Console.WriteLine);
+
         }
     }
 }

@@ -1,0 +1,11 @@
+C:\Users\dilsh\source\repos\ISTA220\LINQ\Conversion\bin\Debug\netcoreapp2.2\Conversion.deps.json
+C:\Users\dilsh\source\repos\ISTA220\LINQ\Conversion\bin\Debug\netcoreapp2.2\Conversion.runtimeconfig.json
+C:\Users\dilsh\source\repos\ISTA220\LINQ\Conversion\bin\Debug\netcoreapp2.2\Conversion.runtimeconfig.dev.json
+C:\Users\dilsh\source\repos\ISTA220\LINQ\Conversion\bin\Debug\netcoreapp2.2\Conversion.dll
+C:\Users\dilsh\source\repos\ISTA220\LINQ\Conversion\bin\Debug\netcoreapp2.2\Conversion.pdb
+C:\Users\dilsh\source\repos\ISTA220\LINQ\Conversion\obj\Debug\netcoreapp2.2\Conversion.csprojAssemblyReference.cache
+C:\Users\dilsh\source\repos\ISTA220\LINQ\Conversion\obj\Debug\netcoreapp2.2\Conversion.csproj.CoreCompileInputs.cache
+C:\Users\dilsh\source\repos\ISTA220\LINQ\Conversion\obj\Debug\netcoreapp2.2\Conversion.AssemblyInfoInputs.cache
+C:\Users\dilsh\source\repos\ISTA220\LINQ\Conversion\obj\Debug\netcoreapp2.2\Conversion.AssemblyInfo.cs
+C:\Users\dilsh\source\repos\ISTA220\LINQ\Conversion\obj\Debug\netcoreapp2.2\Conversion.dll
+C:\Users\dilsh\source\repos\ISTA220\LINQ\Conversion\obj\Debug\netcoreapp2.2\Conversion.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dilsh\\ISTA220\\LINQ\\LINQ\\LINQ.csproj": {}
+    "C:\\Users\\dilsh\\source\\repos\\ISTA220\\LINQ\\LINQ\\LINQ.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dilsh\\ISTA220\\LINQ\\LINQ\\LINQ.csproj": {
+    "C:\\Users\\dilsh\\source\\repos\\ISTA220\\LINQ\\LINQ\\LINQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dilsh\\ISTA220\\LINQ\\LINQ\\LINQ.csproj",
+        "projectUniqueName": "C:\\Users\\dilsh\\source\\repos\\ISTA220\\LINQ\\LINQ\\LINQ.csproj",
         "projectName": "LINQ",
-        "projectPath": "C:\\Users\\dilsh\\ISTA220\\LINQ\\LINQ\\LINQ.csproj",
+        "projectPath": "C:\\Users\\dilsh\\source\\repos\\ISTA220\\LINQ\\LINQ\\LINQ.csproj",
         "packagesPath": "C:\\Users\\dilsh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dilsh\\ISTA220\\LINQ\\LINQ\\obj\\",
+        "outputPath": "C:\\Users\\dilsh\\source\\repos\\ISTA220\\LINQ\\LINQ\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

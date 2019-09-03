@@ -1,0 +1,11 @@
+C:\Users\dilsh\source\repos\ISTA220\LINQ\TakeSkip\bin\Debug\netcoreapp2.2\TakeSkip.deps.json
+C:\Users\dilsh\source\repos\ISTA220\LINQ\TakeSkip\bin\Debug\netcoreapp2.2\TakeSkip.runtimeconfig.json
+C:\Users\dilsh\source\repos\ISTA220\LINQ\TakeSkip\bin\Debug\netcoreapp2.2\TakeSkip.runtimeconfig.dev.json
+C:\Users\dilsh\source\repos\ISTA220\LINQ\TakeSkip\bin\Debug\netcoreapp2.2\TakeSkip.dll
+C:\Users\dilsh\source\repos\ISTA220\LINQ\TakeSkip\bin\Debug\netcoreapp2.2\TakeSkip.pdb
+C:\Users\dilsh\source\repos\ISTA220\LINQ\TakeSkip\obj\Debug\netcoreapp2.2\TakeSkip.csprojAssemblyReference.cache
+C:\Users\dilsh\source\repos\ISTA220\LINQ\TakeSkip\obj\Debug\netcoreapp2.2\TakeSkip.csproj.CoreCompileInputs.cache
+C:\Users\dilsh\source\repos\ISTA220\LINQ\TakeSkip\obj\Debug\netcoreapp2.2\TakeSkip.AssemblyInfoInputs.cache
+C:\Users\dilsh\source\repos\ISTA220\LINQ\TakeSkip\obj\Debug\netcoreapp2.2\TakeSkip.AssemblyInfo.cs
+C:\Users\dilsh\source\repos\ISTA220\LINQ\TakeSkip\obj\Debug\netcoreapp2.2\TakeSkip.dll
+C:\Users\dilsh\source\repos\ISTA220\LINQ\TakeSkip\obj\Debug\netcoreapp2.2\TakeSkip.pdb

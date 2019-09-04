@@ -1,0 +1,11 @@
+C:\Users\dilsh\source\repos\ISTA220\LINQ\GroupJoin\bin\Debug\netcoreapp2.2\GroupJoin.deps.json
+C:\Users\dilsh\source\repos\ISTA220\LINQ\GroupJoin\bin\Debug\netcoreapp2.2\GroupJoin.runtimeconfig.json
+C:\Users\dilsh\source\repos\ISTA220\LINQ\GroupJoin\bin\Debug\netcoreapp2.2\GroupJoin.runtimeconfig.dev.json
+C:\Users\dilsh\source\repos\ISTA220\LINQ\GroupJoin\bin\Debug\netcoreapp2.2\GroupJoin.dll
+C:\Users\dilsh\source\repos\ISTA220\LINQ\GroupJoin\bin\Debug\netcoreapp2.2\GroupJoin.pdb
+C:\Users\dilsh\source\repos\ISTA220\LINQ\GroupJoin\obj\Debug\netcoreapp2.2\GroupJoin.csprojAssemblyReference.cache
+C:\Users\dilsh\source\repos\ISTA220\LINQ\GroupJoin\obj\Debug\netcoreapp2.2\GroupJoin.csproj.CoreCompileInputs.cache
+C:\Users\dilsh\source\repos\ISTA220\LINQ\GroupJoin\obj\Debug\netcoreapp2.2\GroupJoin.AssemblyInfoInputs.cache
+C:\Users\dilsh\source\repos\ISTA220\LINQ\GroupJoin\obj\Debug\netcoreapp2.2\GroupJoin.AssemblyInfo.cs
+C:\Users\dilsh\source\repos\ISTA220\LINQ\GroupJoin\obj\Debug\netcoreapp2.2\GroupJoin.dll
+C:\Users\dilsh\source\repos\ISTA220\LINQ\GroupJoin\obj\Debug\netcoreapp2.2\GroupJoin.pdb

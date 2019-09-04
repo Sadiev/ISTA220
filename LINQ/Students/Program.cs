@@ -68,6 +68,9 @@ namespace Students
             Console.WriteLine("########################################");
 
             DeferredExecution.Deferred();
+            Console.WriteLine("########################################");
+
+            GroupBy.StudentByGollege();
             Console.ReadKey();
 
 

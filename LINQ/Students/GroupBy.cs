@@ -9,9 +9,11 @@ namespace Students
     {
         public static void StudentByGollege()
         {
-            //var studentGroups = Student.GetAllStudents().GroupBy(x=>x.College);
-            var studentGroups = from students in Student.GetAllStudents()
-                                group students by students.College;
+            var studentGroups = Student.GetAllStudents().GroupBy(x=>x.College);
+            //var studentGroups = from students in Student.GetAllStudents()
+            //                    group students by students.College into sGroup
+            //                    orderby sGroup.Key
+            //                    select new { Key=sGroup.Key, Students=sGroup};
             foreach (var item in studentGroups)
             {
                 Console.WriteLine(item.Key+" - "+item.Count(x=>x.Gender=="Male") +" "+item.Max(x=>x.Age));

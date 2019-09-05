@@ -26,7 +26,7 @@ namespace GroupJoin
                     Console.WriteLine($"\t{emp.Name}");
                 }
             }
-            Console.WriteLine("++++++++++++++++++++++++++++++++++++++++++++++++++++++=");
+            Console.WriteLine("+++++++++++++++++++++++++++JOIN+++++++++++++++++++++++++++=");
             //Join
             //var result= Department.GetAllDepartments().Join(Employee.GetAllEmployees(), d => d.ID, e => e.DepartmentID,
             //    (dep,empl)=>new {EmployeeName=empl.Name,DepartmentName=dep.Name });
@@ -42,7 +42,24 @@ namespace GroupJoin
             {
                 Console.WriteLine($"{item.EmployeeName} {item.DepartmentName}");
             }
-            
+
+            Console.WriteLine("+++++++++++++++++++++++++++LEFT JOIN+++++++++++++++++++++++++++=");
+
+            var leftJoin = Employee.GetAllEmployees().GroupJoin(Department.GetAllDepartments(),emp=>emp.DepartmentID, dep=>dep.)
+            //var leftJoin = from emp in Employee.GetAllEmployees()
+            //               join dep in Department.GetAllDepartments()
+            //             on emp.DepartmentID equals dep.ID into eGroup
+            //             from d in eGroup.DefaultIfEmpty()
+            //             select new
+            //             {
+            //                 EmployeeName = emp.Name,
+            //                 DepartmentName =d==null?"No department": d.Name
+            //             };
+            foreach (var item in leftJoin)
+            {
+                Console.WriteLine($"{item.EmployeeName} {item.DepartmentName}");
+            }
+
         }
     }
 }

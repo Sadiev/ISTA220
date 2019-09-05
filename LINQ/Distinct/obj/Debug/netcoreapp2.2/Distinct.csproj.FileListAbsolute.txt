@@ -1,0 +1,11 @@
+C:\Users\dilsh\source\repos\ISTA220\LINQ\Distinct\bin\Debug\netcoreapp2.2\Distinct.deps.json
+C:\Users\dilsh\source\repos\ISTA220\LINQ\Distinct\bin\Debug\netcoreapp2.2\Distinct.runtimeconfig.json
+C:\Users\dilsh\source\repos\ISTA220\LINQ\Distinct\bin\Debug\netcoreapp2.2\Distinct.runtimeconfig.dev.json
+C:\Users\dilsh\source\repos\ISTA220\LINQ\Distinct\bin\Debug\netcoreapp2.2\Distinct.dll
+C:\Users\dilsh\source\repos\ISTA220\LINQ\Distinct\bin\Debug\netcoreapp2.2\Distinct.pdb
+C:\Users\dilsh\source\repos\ISTA220\LINQ\Distinct\obj\Debug\netcoreapp2.2\Distinct.csproj.CoreCompileInputs.cache
+C:\Users\dilsh\source\repos\ISTA220\LINQ\Distinct\obj\Debug\netcoreapp2.2\Distinct.AssemblyInfoInputs.cache
+C:\Users\dilsh\source\repos\ISTA220\LINQ\Distinct\obj\Debug\netcoreapp2.2\Distinct.AssemblyInfo.cs
+C:\Users\dilsh\source\repos\ISTA220\LINQ\Distinct\obj\Debug\netcoreapp2.2\Distinct.dll
+C:\Users\dilsh\source\repos\ISTA220\LINQ\Distinct\obj\Debug\netcoreapp2.2\Distinct.pdb
+C:\Users\dilsh\source\repos\ISTA220\LINQ\Distinct\obj\Debug\netcoreapp2.2\Distinct.csprojAssemblyReference.cache

@@ -20,6 +20,7 @@ namespace GroupJoin
                 new Employee { ID=6,Name="Taylor", DepartmentID=3},
                 new Employee { ID=7,Name="Linda", DepartmentID=2},
                 new Employee { ID=8,Name="Kara", DepartmentID=1},
+                new Employee { ID=9,Name="Misha"},
             };
         }
     }

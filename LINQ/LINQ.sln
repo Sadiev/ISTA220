@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TakeSkip", "TakeSkip\TakeSk
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conversion", "Conversion\Conversion.csproj", "{31580229-F6CE-48FB-8C0B-871174AB8F44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Select", "Select\Select.csproj", "{EE3EC198-6B2F-4EDC-8F51-957EC1BEB8C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Select", "Select\Select.csproj", "{EE3EC198-6B2F-4EDC-8F51-957EC1BEB8C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupJoin", "GroupJoin\GroupJoin.csproj", "{D24A6EE1-4954-4F85-A91A-50F1B80FCAFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GroupJoin", "GroupJoin\GroupJoin.csproj", "{D24A6EE1-4954-4F85-A91A-50F1B80FCAFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distinct", "Distinct\Distinct.csproj", "{C227D8D1-AC25-48FD-9C57-6F13E8A017FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{D24A6EE1-4954-4F85-A91A-50F1B80FCAFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D24A6EE1-4954-4F85-A91A-50F1B80FCAFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D24A6EE1-4954-4F85-A91A-50F1B80FCAFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C227D8D1-AC25-48FD-9C57-6F13E8A017FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C227D8D1-AC25-48FD-9C57-6F13E8A017FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C227D8D1-AC25-48FD-9C57-6F13E8A017FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C227D8D1-AC25-48FD-9C57-6F13E8A017FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

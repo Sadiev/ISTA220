@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GroupJoin", "GroupJoin\Grou
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distinct", "Distinct\Distinct.csproj", "{C227D8D1-AC25-48FD-9C57-6F13E8A017FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Union", "Union\Union.csproj", "{7AA0788B-93DE-4BAA-A329-42B12DC4BC30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{C227D8D1-AC25-48FD-9C57-6F13E8A017FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C227D8D1-AC25-48FD-9C57-6F13E8A017FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C227D8D1-AC25-48FD-9C57-6F13E8A017FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AA0788B-93DE-4BAA-A329-42B12DC4BC30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AA0788B-93DE-4BAA-A329-42B12DC4BC30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AA0788B-93DE-4BAA-A329-42B12DC4BC30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AA0788B-93DE-4BAA-A329-42B12DC4BC30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
